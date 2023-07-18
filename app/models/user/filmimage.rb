@@ -1,0 +1,2 @@
+class Filmimage < ApplicationRecord
+end
